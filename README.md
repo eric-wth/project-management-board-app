@@ -1,3 +1,8 @@
+This is a project management board app with drag-and-drop functionality i.e the user can drag and drop tasks based on which category they fall into e.g "in progress", "review", or "done".
+This functionality is implemented using the HTML5 Drag and Drop API.
+The app also utilizes custom Hooks to reuse state logic in the components.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
